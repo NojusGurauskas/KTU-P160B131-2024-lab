@@ -2,14 +2,14 @@
 
 |Variantas | ecoActCode|Formatas          |
 |:---------|----------:|:-----------------|
-|999         |     11111111111|https://atvira.sodra.lt/imones/downloads/2023/monthly-2023.json.zip|
+|7         |     561000|https://atvira.sodra.lt/imones/downloads/2023/monthly-2023.csv.zip|
 
 
 ### 2.1 Užduotis
 
 Atsakymas:
 
-![histograma](img/pavyzdys1.png)
+![histograma](img/1grafikas.png)
 
 Išvados:
 
@@ -17,7 +17,7 @@ Išvados:
 
 Atsakymas:
 
-![atlyginimai](img/pavyzdys2.png)
+![atlyginimai](img/2grafikas.png)
 
 Išvados:
 
@@ -26,7 +26,7 @@ Išvados:
 
 Atsakymas:
 
-![apdraustieji](img/pavyzdys3.png)
+![apdraustieji](img/3grafikas.png)
 
 Išvados:
 
@@ -35,4 +35,9 @@ Išvados:
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shiny_example.png)
+
+![shiny app](img/shiny.png)
+
+### Išvada
+
+Vidutinis atlyginimas yra apie 1500 eurų, o daugiau nei dvigubai daugiau apdraustųjų turi UAB Gusto namai
